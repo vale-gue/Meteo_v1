@@ -1,0 +1,22 @@
+
+<resources>
+    <string name="txt_milano">Milano</string>
+    <string name="txt_data">Lunedì, 16 novembre</string>
+    <string name="txt_sole">Sole</string>
+    <string name="txt_temperatura">22°C</string>
+    <string name="txt_sereno">Sereno</string>
+    <string name="txt_massima_minima">Massima: 24°C | Minima: 16°C</string>
+    <string name="txt_previsioni">Previsioni</string>
+
+    <string name="txt_martedi">Martedì</string>
+    <string name="txt_nuvoloso">Nuvoloso</string>
+    <string name="txt_temp_giorno1">21°C</string>
+
+    <string name="txt_mercoledi">Mercoledì</string>
+    <string name="txt_temporale">Temporale</string>
+    <string name="txt_temp_giorno2">18°C</string>
+
+    <string name="txt_giovedi">Giovedì</string>
+    <string name="txt_parzialmente_nuvoloso">Parzialmente nuvoloso</string>
+    <string name="txt_temp_giorno3">19°C</string>
+</resources>
